@@ -5,6 +5,11 @@ through a labyrinth.
 
 ![New Game](https://github.com/KorDev01/LabyrinthGame/blob/master/screenshots/newGameTablet.png)
 
+![Game collect point](https://github.com/KorDev01/LabyrinthGame/blob/master/screenshots/playCollectPointTablet.png)
+
+![Game new labyrinth](https://github.com/KorDev01/LabyrinthGame/blob/master/screenshots/playNewLabTablet.png)
+
+
 The Labyrinth is created randomly by using the [Recursive Backtracking algorithm](http://weblog.jamisbuck.org/2010/12/27/maze-generation-recursive-backtracking).
 
 The game uses [LibGDX](https://libgdx.badlogicgames.com) as graphic engine.
