@@ -3,6 +3,8 @@
 This is a game for Android devices. In this game the player has to move a ball
 through a labyrinth.
 
+![](https://github.com/KorDev01/LabyrinthGame/tree/master/screenshots/newGameTablet "New Game")
+
 The Labyrinth is created randomly by using the [Recursive Backtracking algorithm](http://weblog.jamisbuck.org/2010/12/27/maze-generation-recursive-backtracking).
 
 The game uses [LibGDX](https://libgdx.badlogicgames.com) as graphic engine.
